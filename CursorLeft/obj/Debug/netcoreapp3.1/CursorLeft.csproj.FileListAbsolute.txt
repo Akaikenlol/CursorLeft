@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\bin\Debug\netcoreapp3.1\CursorLeft.exe
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\bin\Debug\netcoreapp3.1\CursorLeft.deps.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\bin\Debug\netcoreapp3.1\CursorLeft.runtimeconfig.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\bin\Debug\netcoreapp3.1\CursorLeft.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\bin\Debug\netcoreapp3.1\CursorLeft.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\bin\Debug\netcoreapp3.1\CursorLeft.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\CursorLeft\obj\Debug\netcoreapp3.1\CursorLeft.genruntimeconfig.cache
